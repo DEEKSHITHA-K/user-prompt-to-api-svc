@@ -72,5 +72,5 @@ Edit `src/main/resources/application.properties`:
 spring.ai.openai.api-key=YOUR_OPENAI_API_KEY
 ```
 ### Git Repo Links
-[Readme to describe both repos]https://github.com/DEEKSHITHA-K/OpenAI-with-java)
+[Readme to describe both repos](https://github.com/DEEKSHITHA-K/OpenAI-with-java)
 [Transaction Service](https://github.com/DEEKSHITHA-K/transaction-svc)
