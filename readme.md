@@ -73,4 +73,5 @@ spring.ai.openai.api-key=YOUR_OPENAI_API_KEY
 ```
 ### Git Repo Links
 For more information, visit the parent project directory. [OpenAI-with-Java](https://github.com/DEEKSHITHA-K/OpenAI-with-java)
+
 For the Spring Boot microservice providing REST APIs for transaction data queries [Transaction Service](https://github.com/DEEKSHITHA-K/transaction-svc)
